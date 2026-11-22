@@ -1,0 +1,12 @@
+TO DO:
+- GUI
+    -Shows the graph
+    -Shows a menu for traversal
+- Graph
+    -Constructor to load csv file into graph
+    -method to load csv file into graph
+    -method to write graph into csv file
+    -method to edit(add, delete) vertexes
+    -method for traversals (breadth/depth first traversal)
+- Main
+    - Connectors
